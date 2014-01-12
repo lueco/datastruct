@@ -1,4 +1,4 @@
 datastruct
 ==========
 
-home work of date structure
+home work of data structure
